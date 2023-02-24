@@ -1,11 +1,11 @@
 
-* {
-    color:blue
-}
+ body {
+    background-color:rgb(197, 228, 228) ;
+} 
 p, span { 
     font-family: Arial, Helvetica, sans-serif;
     color: red;
-    width: 300px;
+    width: 400px;
 }
 
 /**
@@ -32,7 +32,7 @@ h1 {
     color: gray;
 }
 section {
-    width: 300px;
+    width: 500px;
     border: 15px solid green;
     padding: 50px;
     margin: 20px;
@@ -47,4 +47,8 @@ section {
 .estaesmiclase {
     font-weight: bold;
     color: lightblue;
+}
+
+#demo {
+    color: rebeccapurple
 }
